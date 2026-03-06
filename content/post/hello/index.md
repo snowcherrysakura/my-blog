@@ -5,9 +5,9 @@ slug: First Blog
 date: 2026-03-07 08:45:00+0000
 image: cover.jpg
 categories:
-    - post
+    - Example Category
 tags:
-    - sign
+    - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
